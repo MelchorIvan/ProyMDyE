@@ -1,6 +1,11 @@
 <?php 
 include 'inc/funciones/funciones.php';
 include 'inc/layout/header.php';  
+//Iván Melchor Santiago
+//José Antonio Cortés Olmos
+//Karen Iveth Plata Hernández
+//Edgar Hernández Millan
+//Luis Enrique Contreras Vázquez
 ?>
 
 
